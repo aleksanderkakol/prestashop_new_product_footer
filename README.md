@@ -1,0 +1,1 @@
+# prestashop_new_product_footer
